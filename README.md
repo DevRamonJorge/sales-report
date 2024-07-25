@@ -9,7 +9,7 @@ Este projeto é uma aplicação web simples que permite visualizar as vendas da 
 
 ## Como Usar
 
-1. Acesse a aplicação através do link: [Proaços Relatório de Vendas](https://devramonjorge.github.io/proacos_login/).
+1. Acesse a aplicação através do link: [Proaços Relatório de Vendas](https://devramonjorge.github.io/sales-report/).
 2. Selecione o intervalo de datas de 01/01/2024 a 30/10/2024 para visualizar as vendas.
 
 ## Tecnologias Utilizadas
@@ -32,4 +32,3 @@ Este projeto é uma aplicação web simples que permite visualizar as vendas da 
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
